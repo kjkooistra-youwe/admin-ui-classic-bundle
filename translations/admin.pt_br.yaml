@@ -498,8 +498,8 @@ merge_csv: Importar e fundir
 translation_merger_current: Texto Atual
 translation_merger_csv: Texto a partir de CSV
 nothing_to_merge: "N\xE3o h\xE1 nada para fundir"
-csv_seperated_options: "Op\xE7\xF5es separadas de CSV"
-csv_seperated_options_info: "A lista de op\xE7\xF5es dispon\xEDveis pode ser especificada
+csv_separated_options: "Op\xE7\xF5es separadas de CSV"
+csv_separated_options_info: "A lista de op\xE7\xF5es dispon\xEDveis pode ser especificada
   como uma lista separada por v\xEDrgula, como valores de coluna \xFAnica ou mista.
   Para o caminho de coluna \xFAnica, a chave tamb\xE9m ser\xE1 usada como valor."
 first_page: "Primeira P\xE1gina"

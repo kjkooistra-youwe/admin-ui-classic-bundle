@@ -511,8 +511,8 @@ merge_csv: "CSV dosyas\u0131n\u0131 i\xE7eri aktar ve birle\u015Ftir"
 translation_merger_current: "\u015Eu anki metin"
 translation_merger_csv: CSV den gelen metin
 nothing_to_merge: "Birle\u015Ftirecek bir \u015Fey yok."
-csv_seperated_options: "CSV ayr\u0131lm\u0131\u015F se\xE7enekler"
-csv_seperated_options_info: "Uygun ayarlar listesi virg\xFClle ayr\u0131lm\u0131\u015F
+csv_separated_options: "CSV ayr\u0131lm\u0131\u015F se\xE7enekler"
+csv_separated_options_info: "Uygun ayarlar listesi virg\xFClle ayr\u0131lm\u0131\u015F
   liste olarak belirlenebilir, tek-s\xFCtun de\u011Feri yada kar\u0131\u015F\u0131k
   de\u011Ferler olabilir. Tek-s\xFCtun yolu i\xE7in, anahtar de\u011Fer ayn\u0131
   zamanda genel de\u011Fer olarak kullan\u0131lacak."

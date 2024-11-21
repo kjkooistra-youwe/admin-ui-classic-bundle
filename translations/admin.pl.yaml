@@ -497,8 +497,8 @@ merge_csv: Importuj &amp; scal CSV
 translation_merger_current: Aktualny tekst
 translation_merger_csv: Tekst z CSV
 nothing_to_merge: Nie ma nic do scalenia
-csv_seperated_options: Ustawienia separatora CSV
-csv_seperated_options_info: "Lista dost\u0119pnych opcji mo\u017Ce by\u0107 okre\u015Blona
+csv_separated_options: Ustawienia separatora CSV
+csv_separated_options_info: "Lista dost\u0119pnych opcji mo\u017Ce by\u0107 okre\u015Blona
   jako lista oddzielona przecinkami, jako warto\u015Bci jednokolumnowe lub mieszane.
   Dla sposobu jednokolumnowego klucz b\u0119dzie r\xF3wnie\u017C u\u017Cywany jako
   warto\u015B\u0107."

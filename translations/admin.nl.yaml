@@ -488,8 +488,8 @@ merge_csv: Importeren en CSV samenvoegen
 translation_merger_current: huidige tekst
 translation_merger_csv: text van csv
 nothing_to_merge: Er is niets om samen te voegen
-csv_seperated_options: Komma gescheiden opties
-csv_seperated_options_info: De lijst met beschikbare opties kan opgebouwd worden als
+csv_separated_options: Komma gescheiden opties
+csv_separated_options_info: De lijst met beschikbare opties kan opgebouwd worden als
   komma-gescheiden, enkelvoudige-kolom waardes of een mix van beide. Bij de enkelvoudige
   kolom methode zal de sleutel tevens als waarde gebruikt worden.
 first_page: Eerste pagina

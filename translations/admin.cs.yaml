@@ -501,8 +501,8 @@ merge_csv: "Import &amp; Slou\u010Den\xED CSV"
 translation_merger_current: "Aktu\xE1ln\xED text"
 translation_merger_csv: Text z CSV
 nothing_to_merge: "Nen\xED nic ke slou\u010Den\xED"
-csv_seperated_options: "CSV nastaven\xED"
-csv_seperated_options_info: "Nastaven\xED mohou b\xFDt specifikov\xE1na jako seznam
+csv_separated_options: "CSV nastaven\xED"
+csv_separated_options_info: "Nastaven\xED mohou b\xFDt specifikov\xE1na jako seznam
   odd\u011Blen\xFD \u010D\xE1rkami. Pro jednoduch\xE9 hodnoty bude kl\xED\u010D pou\u017Eit\xFD
   i jako hodnota."
 first_page: "Prvn\xED str\xE1nka"

@@ -455,8 +455,8 @@ merge_csv: merge_csv
 translation_merger_current: translation_merger_current
 translation_merger_csv: translation_merger_csv
 nothing_to_merge: nothing_to_merge
-csv_seperated_options: csv_seperated_options
-csv_seperated_options_info: csv_seperated_options_info
+csv_separated_options: csv_separated_options
+csv_separated_options_info: csv_separated_options_info
 first_page: "\u6700\u521D\u306E\u30DA\u30FC\u30B8"
 previous_page: "\u524D\u306E\u30DA\u30FC\u30B8"
 next_page: "\u6B21\u306E\u30DA\u30FC\u30B8"

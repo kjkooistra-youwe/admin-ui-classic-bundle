@@ -502,8 +502,8 @@ merge_csv: Import &amp; Fusion CSV
 translation_merger_current: Texte courant
 translation_merger_csv: Texte du CSV
 nothing_to_merge: "Aucun \xE9l\xE9ment \xE0 fusionner"
-csv_seperated_options: "Options s\xE9par\xE9s CVS"
-csv_seperated_options_info: "La liste des options disponibles peut \xEAtre sp\xE9cifi\xE9
+csv_separated_options: "Options s\xE9par\xE9s CVS"
+csv_separated_options_info: "La liste des options disponibles peut \xEAtre sp\xE9cifi\xE9
   sous forme de liste s\xE9par\xE9e par des virgules, en tant que valeurs \xE0 colonne
   unique ou mixte. Dans la cas d'une seule colonne, la cl\xE9 sera \xE9galement utilis\xE9e
   en tant que valeur."

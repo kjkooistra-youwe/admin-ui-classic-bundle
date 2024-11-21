@@ -498,8 +498,8 @@ merge_csv: CSV importieren & vereinen
 translation_merger_current: Aktueller Text
 translation_merger_csv: Text aus CSV
 nothing_to_merge: Keine Konflikte vorhanden
-csv_seperated_options: CSV-getrennte Optionen
-csv_seperated_options_info: "Die Liste der verf\xFCgbaren Optionen k\xF6nnen als kommagetrennte
+csv_separated_options: CSV-getrennte Optionen
+csv_separated_options_info: "Die Liste der verf\xFCgbaren Optionen k\xF6nnen als kommagetrennte
   Liste, einspaltige Werte oder durchmischt definiert werden. Bei der einspaltigen
   Variante, wird der Schl\xFCssel (Key) ebenfalls als Wert verwendet."
 first_page: Erste Seite

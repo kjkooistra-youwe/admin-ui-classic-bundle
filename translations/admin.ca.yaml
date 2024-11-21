@@ -502,8 +502,8 @@ merge_csv: Importar i Combinar CSV
 translation_merger_current: Text actual
 translation_merger_csv: Text from CSV
 nothing_to_merge: There is nothing to merge
-csv_seperated_options: CSV seperated options
-csv_seperated_options_info: The list of available options can be specified as comma-seperated
+csv_separated_options: CSV separated options
+csv_separated_options_info: The list of available options can be specified as comma-separated
   list, as single-column values or  mixed. For the single-column way, the key will
   also be used as the value.
 first_page: "Primera p\xE0gina"

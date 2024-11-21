@@ -495,8 +495,8 @@ merge_csv: Importera &amp; Sammanfoga CSV
 translation_merger_current: Nuvarande text
 translation_merger_csv: "Text fr\xE5n CSV"
 nothing_to_merge: "Det finns inget att sl\xE5 ihop"
-csv_seperated_options: CSV-separerade alternativ
-csv_seperated_options_info: "Listan \xF6ver tillg\xE4ngliga alternativ kan anges som
+csv_separated_options: CSV-separerade alternativ
+csv_separated_options_info: "Listan \xF6ver tillg\xE4ngliga alternativ kan anges som
   kommaseparerad lista, som enkolumnv\xE4rden eller blandad. F\xF6r enkelkolumns\xE4ttet
   kommer nyckeln ocks\xE5 att anv\xE4ndas som v\xE4rde."
 first_page: "F\xF6rsta sidan"

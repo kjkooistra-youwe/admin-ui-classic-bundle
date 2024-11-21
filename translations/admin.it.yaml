@@ -492,8 +492,8 @@ merge_csv: Importa &amp; Unisci CSV
 translation_merger_current: Testo corrente
 translation_merger_csv: Testo da CSV
 nothing_to_merge: "Non c'\xE8 nulla da unire"
-csv_seperated_options: Opzioni separazione CSV
-csv_seperated_options_info: "La lista delle opzioni disponibili pu\xF2 essere specificata
+csv_separated_options: Opzioni separazione CSV
+csv_separated_options_info: "La lista delle opzioni disponibili pu\xF2 essere specificata
   come lista con separatori di virgola, come valori a colonna singola o misti. In
   caso di singola colonna, la chiave varr\xE0 anche come valore."
 first_page: Prima Pagina
